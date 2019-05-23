@@ -1,6 +1,6 @@
 # This is a personal blog for Notes on Learning To Code
-# link: https://brooke-coding.github.io/
-## Welcome to GitHub Pages
+
+## Welcome to My GitHub Pages https://brooke-coding.github.io/
 
 You can use the [editor on GitHub](https://github.com/brooke-coding/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
