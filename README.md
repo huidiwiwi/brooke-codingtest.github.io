@@ -1,6 +1,6 @@
 
 ## Welcome to My GitHub Pages 
-## https://huidiwiwi.github.io/
+## https://brooke/codingtest.github.io/
 
 You can use the [editor on GitHub](https://github.com/brooke-coding/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
